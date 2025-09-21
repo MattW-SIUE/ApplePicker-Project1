@@ -1,0 +1,1 @@
+This is my project for the Apple Picker assignment, if anything else is required, please let me know so that I can make changes. I'm very new to GitHub, so I hope that I have applied and submitted everything correctly.

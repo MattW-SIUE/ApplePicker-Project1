@@ -1,1 +1,1 @@
-This is my project for the Apple Picker assignment, if anything else is required, please let me know so that I can make changes. I'm very new to GitHub, so I hope that I have applied and submitted everything correctly.
+This is my project for the Apple Picker assignment, if anything else is required, please let me know so that I can make changes. I'm very new to GitHub, so I hope that I have applied and submitted everything correctly. I have also included "ApplePicker.exe", which is a build of the project itself if required.
